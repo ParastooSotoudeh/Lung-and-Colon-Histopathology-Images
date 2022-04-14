@@ -11,6 +11,8 @@ This repository contains the Keras implementation of our Machine Learning projec
 <br/>
 We used the LC25000 Dataset and the code was Implemented using KERAS. 
 We Trained the network using the Google Colab.
+Reference of dataset: 
+Lung and Colon Cancer Histopathological Images dataset: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 <br/>
 ### How to use these files:
 <br/>Please download the kaggle.json and LC25000.ipynb files and put them in your google drive. After that, you can easily run the project using the file LC25000.ipynb.
